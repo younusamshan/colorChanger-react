@@ -1,0 +1,13 @@
+.mainContainer{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.mainContainer > button {
+  padding: 8px 16px ;
+  border-radius: 20px;
+
+}
